@@ -7,3 +7,5 @@ Pre-requisutes:
 -ImageAI <br>
 -ImageAI's pretrained model file. <br>
 -Pandas <br>
+<br>
+Dataset at: https://drive.google.com/open?id=1ZKZAzn_GDua-idep_yUpbmOJKOOSUqS3
